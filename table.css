@@ -1,0 +1,32 @@
+.headings{
+    text-align: center;
+}
+
+
+h2{
+   
+    text-decoration: underline;
+}
+
+.p2{
+   padding-left: 86%;
+   padding-bottom: 20px;
+   display: inline-block;
+}
+
+table{
+    border-collapse: collapse;
+    width: 95%;
+}
+table,th,td{
+    border: 1px solid black;    
+    text-align: center;
+}
+
+tr{
+    height: 55px;
+}
+.table1{
+    padding-top: 10px;
+    
+}
