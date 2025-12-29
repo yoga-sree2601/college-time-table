@@ -16,10 +16,13 @@ h2{
    padding-left: 86%;
    
 }
+body{
+    font-size:14px;
+}
 
 table{
     border-collapse: collapse;
-    width: 95%;
+    width: 100%;
     background-color:lemonchiffon;
     padding-right:10px;
 }
@@ -42,4 +45,5 @@ section{
     padding-left:30px;
     padding-bottom:20px;
 }
+
 
