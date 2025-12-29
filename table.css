@@ -7,16 +7,21 @@ h2{
    
     text-decoration: underline;
 }
+.p1
+{
+    padding-left:33px;
+}
 
 .p2{
    padding-left: 86%;
-   padding-bottom: 20px;
-   display: inline-block;
+   
 }
 
 table{
     border-collapse: collapse;
     width: 95%;
+    background-color:lemonchiffon;
+    padding-right:10px;
 }
 table,th,td{
     border: 1px solid black;    
@@ -24,9 +29,17 @@ table,th,td{
 }
 
 tr{
-    height: 55px;
+    height: 60px;
 }
 .table1{
     padding-top: 10px;
     
 }
+.continer{
+    background-color:burlywood;
+}
+section{
+    padding-left:30px;
+    padding-bottom:20px;
+}
+
